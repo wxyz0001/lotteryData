@@ -1,0 +1,2 @@
+# lotteryData
+lottery_ssqData
